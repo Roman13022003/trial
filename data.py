@@ -1,6 +1,6 @@
 import pandas as pd
 
-def load_data():
+def load_data2():
     data = {
         "city": ["Kyiv", "Lviv", "Odesa", "Kyiv", "Lviv", "Odesa"],
         "month": ["Jan", "Jan", "Jan", "Feb", "Feb", "Feb"],

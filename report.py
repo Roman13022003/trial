@@ -1,7 +1,7 @@
-from data import load_data
-from analysis import total_sales_by_city
+from data import load_data2
+from analysis import total_sales_by_city2
 
-df = load_data()
-result = total_sales_by_city(df)
-print("Загальні продажі по містах:")
+df = load_data2()
+result = total_sales_by_city2(df)
+print("Загальні продажі по містах2:")
 print(result)
